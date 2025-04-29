@@ -1,11 +1,11 @@
-<h1 align="center">SUPER-MD</h1>
+<h1 align="center">🇸 🇺 🇵 🇪 🇷 - 🇲 🇩 </h1>
 
 <p align="center">
   <img src="https://img12.pixhost.to/images/829/574783260_yilzishop.jpg" alt="SUPER-MD" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://images.chatgpt.com/user-uploads/5ba4fd6c-3093-470b-8e06-313d8e5852ff/712e45f4-16d6-4f92-a301-54f72e35c56a.gif" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS+FOR+CHOOSING+SUPER+MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+𓄂⍣⃝𝐄𝐌𝐏𝄟✮͢≛𝐍𝐎𝐁𝐎𝐃𝐘𝄟✮;RELEASED+29.04.25" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,6 +20,15 @@
   </a>
   <a href="https://github.com/NobodyEmp/Super-md/watchers">
     <img src="https://img.shields.io/github/watchers/NobodyEmp/Super-md?style=for-the-badge&logo=github&color=yellow" alt="Watchers">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://pair-o4bd.onrender.com/pair">
+    <img src="https://img.shields.io/badge/Generate_Session_ID-blue?style=for-the-badge&logo=android&logoColor=white" alt="Generate Session ID">
+  </a>
+  <a href="https://pair-o4bd.onrender.com">
+    <img src="https://img.shields.io/badge/Get_Pairing_Code-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Get Pairing Code">
   </a>
 </p>
 
@@ -56,20 +65,35 @@
 
 ## 🔧 Prerequisites
 - Node.js v20+  
-- Deployment site (panel, Termux, Heroku, Render, Replit, Codespace, etc.)  
+- Deployment site (Panel, Termux, Replit — *Heroku and Render coming soon*)  
 - Session ID  
 - Basic knowledge of terminal/command line  
 - Video tutorial on how to download  
 
 ---
 
+## 🔑 Session & Pairing
+- **Generate Session ID**: [Click Here](https://pair-o4bd.onrender.com/pair)  
+- **Get Pairing Code**: [Click Here](https://pair-o4bd.onrender.com)
+
+---
+
 ## 🚀 Deployment Options
-- **Panel Deployment** (e.g., cPanel, VPS hosting)  
-- **Termux Deployment**  
-- **Heroku**  
-- **Replit**  
-- **Render**  
-- **Codespace**  
+
+> **Note:** Deployment will soon be available on **Heroku** and **Render**.  
+> **Currently available** deployment platforms include **Panel**, **Termux**, and **Replit**.
+
+### ✅ Termux Deployment:
+bash
+apt update && apt upgrade
+pkg install bash
+pkg install libwebp
+pkg install git -y
+pkg install nodejs -y 
+git clone https://github.com/NobodyEmp/Super-md
+cd Super-md
+yarn install
+yarn start  
 
 ---
 
