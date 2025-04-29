@@ -8,6 +8,21 @@
   <img src="https://images.chatgpt.com/user-uploads/5ba4fd6c-3093-470b-8e06-313d8e5852ff/712e45f4-16d6-4f92-a301-54f72e35c56a.gif" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/NobodyEmp/Super-md/fork">
+    <img src="https://img.shields.io/badge/Fork-Me-black?style=for-the-badge&logo=github" alt="Fork">
+  </a>
+  <a href="https://github.com/NobodyEmp/Super-md/stargazers">
+    <img src="https://img.shields.io/github/stars/NobodyEmp/Super-md?style=for-the-badge&logo=github&color=red" alt="Stars">
+  </a>
+  <a href="https://github.com/NobodyEmp/Super-md/followers">
+    <img src="https://img.shields.io/github/followers/NobodyEmp?style=for-the-badge&logo=github&color=blue" alt="Followers">
+  </a>
+  <a href="https://github.com/NobodyEmp/Super-md/watchers">
+    <img src="https://img.shields.io/github/watchers/NobodyEmp/Super-md?style=for-the-badge&logo=github&color=yellow" alt="Watchers">
+  </a>
+</p>
+
 ---
 
 ## 📝 Introduction
