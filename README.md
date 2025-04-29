@@ -84,16 +84,16 @@
 > **Currently available** deployment platforms include **Panel**, **Termux**, and **Replit**.
 
 ### ✅ Termux Deployment:
-bash
-apt update && apt upgrade
-pkg install bash
-pkg install libwebp
-pkg install git -y
-pkg install nodejs -y 
-git clone https://github.com/NobodyEmp/Super-md
-cd Super-md
-yarn install
-yarn start  
+- bash
+- apt update && apt upgrade
+- pkg install bash
+- pkg install libwebp
+- pkg install git -y
+- pkg install nodejs -y 
+- git clone https://github.com/NobodyEmp/Super-md
+- cd Super-md
+- yarn install
+- yarn start  
 
 ---
 
